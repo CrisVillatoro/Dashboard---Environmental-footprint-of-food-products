@@ -1,0 +1,44 @@
+,Food_Product,Land_Use_Change,Animal_Feed,Farm,Processing,Transport,Packaging,Retail,Total_Emissions,Category,Origin
+0,Wheat & Rye (Bread),0.1,0.0,0.8,0.2,0.1,0.1,0.1,1.4,Grains,Vegetal
+1,Maize (Meal),0.3,0.0,0.5,0.1,0.1,0.1,0.0,1.1,Grains,Vegetal
+2,Barley (Beer),0.0,0.0,0.2,0.1,0.0,0.5,0.3,1.1,Grains,Vegetal
+3,Oatmeal,0.0,0.0,1.4,0.0,0.1,0.1,0.0,1.6,Grains,Vegetal
+4,Rice,0.0,0.0,3.6,0.1,0.1,0.1,0.1,4.0,Grains,Vegetal
+5,Potatoes,0.0,0.0,0.2,0.0,0.1,0.0,0.0,0.3,Vegetables,Vegetal
+6,Cassava,0.6,0.0,0.2,0.0,0.1,0.0,0.0,0.9,Vegetables,Vegetal
+7,Cane Sugar,1.2,0.0,0.5,0.0,0.8,0.1,0.0,2.6,Sugar,Vegetal
+8,Beet Sugar,0.0,0.0,0.5,0.2,0.6,0.1,0.0,1.4,Sugar,Vegetal
+9,Other Pulses,0.0,0.0,1.1,0.0,0.1,0.4,0.0,1.6,Vegetables,Vegetal
+10,Peas,0.0,0.0,0.7,0.0,0.1,0.0,0.0,0.8,Vegetables,Vegetal
+11,Nuts,0.0,0.0,2.1,0.0,0.1,0.1,0.0,0.2,Nuts,Vegetal
+12,Groundnuts,0.4,0.0,1.4,0.4,0.1,0.1,0.0,2.4,Nuts,Vegetal
+13,Soymilk,0.2,0.0,0.1,0.2,0.1,0.1,0.3,1.0,Dairy,Vegetal
+14,Tofu,1.0,0.0,0.5,0.8,0.2,0.2,0.3,3.0,Other,Vegetal
+15,Soybean Oil,3.1,0.0,1.5,0.3,0.3,0.8,0.0,6.0,Oils,Vegetal
+16,Palm Oil,3.1,0.0,2.1,1.3,0.2,0.9,0.0,7.6,Oils,Vegetal
+17,Sunflower Oil,0.1,0.0,2.1,0.2,0.2,0.9,0.0,3.5,Oils,Vegetal
+18,Rapeseed Oil,0.2,0.0,2.3,0.2,0.2,0.8,0.0,3.7,Oils,Vegetal
+19,Olive Oil,0.0,0.0,4.3,0.7,0.5,0.9,0.0,6.0,Oils,Vegetal
+20,Tomatoes,0.4,0.0,0.7,0.0,0.2,0.1,0.0,1.4,Vegetables,Vegetal
+21,Onions & Leeks,0.0,0.0,0.2,0.0,0.1,0.0,0.0,0.3,Vegetables,Vegetal
+22,Root Vegetables,0.0,0.0,0.2,0.0,0.1,0.0,0.0,0.3,Vegetables,Vegetal
+23,Brassicas,0.0,0.0,0.3,0.0,0.1,0.0,0.0,0.4,Vegetables,Vegetal
+24,Other Vegetables,0.0,0.0,0.2,0.1,0.2,0.0,0.0,0.5,Vegetables,Vegetal
+25,Citrus Fruit,0.0,0.0,0.3,0.0,0.1,0.0,0.0,0.3,Fruits,Vegetal
+26,Bananas,0.0,0.0,0.3,0.1,0.3,0.1,0.0,0.8,Fruits,Vegetal
+27,Apples,0.0,0.0,0.2,0.0,0.1,0.0,0.0,0.3,Fruits,Vegetal
+28,Berries & Grapes,0.0,0.0,0.7,0.0,0.2,0.2,0.0,1.1,Fruits,Vegetal
+29,Wine,0.0,0.0,0.6,0.1,0.1,0.7,0.0,1.4,Other,Vegetal
+30,Other Fruit,0.1,0.0,0.4,0.0,0.2,0.0,0.0,0.7,Fruits,Vegetal
+31,Coffee,3.7,0.0,10.4,0.6,0.1,1.6,0.1,16.5,Other,Vegetal
+32,Dark Chocolate,14.3,0.0,3.7,0.2,0.1,0.4,0.0,18.7,Other,Vegetal
+33,Beef (beef herd),16.3,1.9,39.4,1.3,0.3,0.2,0.2,59.6,Animal_Prod,Animal
+34,Beef (dairy herd),0.9,2.5,15.7,1.1,0.4,0.3,0.2,21.1,Animal_Prod,Animal
+35,Lamb & Mutton,0.5,2.4,19.5,1.1,0.5,0.3,0.2,24.5,Animal_Prod,Animal
+36,Pig Meat,1.5,2.9,1.7,0.3,0.3,0.3,0.2,7.2,Animal_Prod,Animal
+37,Poultry Meat,2.5,1.8,0.7,0.4,0.3,0.2,0.2,6.1,Animal_Prod,Animal
+38,Milk,0.5,0.2,1.5,0.1,0.1,0.1,0.3,2.8,Dairy,Animal
+39,Cheese,4.5,2.3,13.1,0.7,0.1,0.2,0.3,21.2,Dairy,Animal
+40,Eggs,0.7,2.2,1.3,0.0,0.1,0.2,0.0,4.5,Animal_Prod,Animal
+41,Fish (farmed),0.5,0.8,3.6,0.0,0.1,0.1,0.0,5.1,Animal_Prod,Animal
+42,Shrimps (farmed),0.2,2.5,8.4,0.0,0.2,0.3,0.2,11.8,Animal_Prod,Animal
