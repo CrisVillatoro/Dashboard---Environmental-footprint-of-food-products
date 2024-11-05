@@ -7,7 +7,7 @@ It is possible to visualize the top 15 emitters with animal or plant-based origi
 Finally, it displays a Sankey diagram of GHGs across the lifecycle of food production and consumption.
 
 
-# Requirements 
+# Requirements:
 
 1. gunicorn
 2. dash
